@@ -1,0 +1,11 @@
+{
+  "name": "ageless",
+  "title": "Ageless",
+  "id": "2341n4m3@gmail.com",
+  "description": "Watch age restricted YouTube videos without signing in",
+  "permissions": {"private-browsing": true},
+  "author": "H34dcr4b",
+  "license": "MPL 2.0",
+  "version": "0.7"
+  
+}
