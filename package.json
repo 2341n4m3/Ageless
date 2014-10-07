@@ -6,6 +6,12 @@
   "permissions": {"private-browsing": true},
   "author": "H34dcr4b",
   "license": "MPL 2.0",
-  "version": "0.7"
-  
+  "version": "0.7",
+  "preferences": [{
+         "description": "Play videos opend with Ageless in HD if possible.",
+         "type": "bool",
+         "name": "hd",
+         "value": false,
+         "title": "HD"
+    }]
 }
